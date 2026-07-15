@@ -19,3 +19,17 @@ public class fibonacci {
         
     }
 }
+
+
+
+
+
+
+/*Dynamic Programming (DP) is an algorithmic technique used to solve complex problems by breaking them down into smaller, overlapping subproblems and storing their results to avoid redundant computations. It is particularly effective when a problem exhibits optimal substructure and overlapping subproblems.
+
+By reusing previously computed solutions through memoization (top-down) or tabulation (bottom-up), DP significantly improves the efficiency of algorithms that would otherwise require exponential time.
+
+Why it matters
+Reduces time complexity by eliminating repeated calculations.
+Enables efficient solutions for optimization and counting problems.
+Forms the foundation for solving many advanced algorithmic challenges in technical interviews and competitive programming.*/
