@@ -8,6 +8,7 @@ Languages
 Topics Covered
 
 - Arrays
+- Sorting
 - Dynamic Programming
 
 ## Progress
@@ -15,6 +16,7 @@ Topics Covered
 | Topic | Solved |
 |--------|--------|
 | Arrays | 3 |
+| SORTING | 1 |
 | DP | 2 |
 
 Current Goal: 300+ problems
