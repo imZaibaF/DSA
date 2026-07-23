@@ -1,1 +1,23 @@
 
+// recursion is a form where the function calls itself unless hte condition is met.  It is a method of solving the problems by creating the sub problems.
+
+public class factorial {
+    public static void main(String[] args) {
+        int number = 5; // Example number to calculate factorial
+        int result = factorial(number);
+        System.out.println("Factorial of " + number + " is: " + result);
+    }
+
+    public static int factorial(int n) {
+        if (n == 0 || n == 1) {
+            return 1; // Base case
+        } else {
+            return n * factorial(n - 1); // Recursive case
+        }
+    }
+  
+}
+
+// TC: O(n).
+// SC: O(n)., as it calls for the recursive calls
+
